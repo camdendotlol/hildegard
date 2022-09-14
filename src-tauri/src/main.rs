@@ -5,7 +5,7 @@
 
 use self::models::*;
 use diesel::prelude::*;
-use hildegard_tauri::*;
+use hildegard::*;
 
 #[tauri::command]
 fn greet(name: &str) -> String {

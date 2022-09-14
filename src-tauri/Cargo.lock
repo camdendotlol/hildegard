@@ -1122,7 +1122,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "hildegard-tauri"
+name = "hildegard"
 version = "0.0.0"
 dependencies = [
  "diesel",

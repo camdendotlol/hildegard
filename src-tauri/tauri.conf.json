@@ -28,7 +28,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.hildegard",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
@@ -57,7 +57,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "fuck",
+        "title": "Hildegard",
         "width": 800
       }
     ]

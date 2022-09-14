@@ -18,8 +18,8 @@ The Rust source code is in the `/src-tauri` directory. The React/Typescript fron
 
 If you wish to run this application yourself, you will need:
 
-* an up-to-date version of Rust
-* the Diesel CLI as described in Diesel's [Getting Started](https://diesel.rs/guides/getting-started) guide
+* an up-to-date version of Rust and Cargo
+* the [Diesel ORM CLI tool](https://crates.io/crates/diesel_cli)
 * the [Tauri CLI tool](https://tauri.app/v1/api/cli/)
 
 ## Setup steps
